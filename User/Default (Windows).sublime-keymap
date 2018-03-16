@@ -1,0 +1,3 @@
+[
+	{ "keys": ["alt+/"], "command": "auto_complete" }
+]

@@ -1,0 +1,1 @@
+{"version": "1.0.2", "sublime_text": ">=3000", "platforms": ["*"], "description": "Reflect Emmet HTML expansion in Sass/LESS", "url": "https://github.com/eecolella/emmet-style-reflector", "dependencies": []}
